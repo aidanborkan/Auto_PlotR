@@ -1,5 +1,5 @@
 # Auto_PlotR
-Automated temperature curve plotting
+Automated temperature curve plotting from RDS file
 
 #we need to increase the maximum upload size to 1GB
 options(shiny.maxRequestSize=1000*1024^2)
